@@ -14,7 +14,7 @@ On the other hand, the mortality rate of children under 5 years of age in these 
 Therefore, by making a deduction from the graph it can be seen that underdeveloped countries that lack a good health system, coupled with the poverty they suffer and access to education (sex education) have a higher mortality rate in children under 5 years compared to more developed countries such as China, USA, Brazil and even India.
 
 
-you can see the procedure carried out in the attached notebook
+you can see the procedure performed in the attached notebook in the corresponding section
 
 
 
